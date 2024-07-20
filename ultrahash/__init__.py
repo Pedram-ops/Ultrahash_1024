@@ -1,0 +1,1 @@
+from .Ultrahash import Ultrahash1024
